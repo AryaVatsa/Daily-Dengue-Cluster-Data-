@@ -1,0 +1,26 @@
+name: Daily Selenium Script
+
+on:
+  schedule:
+    - cron: '0 0 * * *'  # This will run the job daily at midnight
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout code
+      uses: actions/checkout@v2
+      
+    - name: Setup Python
+      uses: actions/setup-python@v2
+      with:
+        python-version: '3.x'
+      
+    - name: Install dependencies
+      run: |
+        pip install selenium pandas webdriver-manager jupyter nbconvert
+        
+    - name: Run the notebook
+      run: jupyter nbconvert --to notebook --execute NEAwebsite.ipynb
+
