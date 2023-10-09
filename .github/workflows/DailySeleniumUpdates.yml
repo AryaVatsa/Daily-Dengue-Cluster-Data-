@@ -2,7 +2,7 @@ name: Daily Selenium Script
 
 on:
   schedule:
-    - cron: '20 03 * * *'  
+    - cron: '11 05 * * *'  
 
 jobs:
   build:
@@ -29,5 +29,5 @@ jobs:
         pip install selenium pandas webdriver-manager jupyter nbconvert
         
     - name: Run the notebook
-      run: jupyter nbconvert --to notebook --execute NEAwebsite.ipynb
+      run: jupyter nbconvert --to notebook --execute -- debug NEAwebsite.ipynb
 
