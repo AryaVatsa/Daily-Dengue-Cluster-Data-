@@ -2,7 +2,7 @@ name: Daily Selenium Script
 
 on:
   schedule:
-    - cron: '0 11 * * *'  # This will run the job daily at midnight
+    - cron: '12 11 * * *'  
 
 jobs:
   build:
@@ -16,7 +16,14 @@ jobs:
       uses: actions/setup-python@v2
       with:
         python-version: '3.x'
-      
+
+    - name: Setup Chrome Driver
+      uses: nanasess/setup-chromedriver@master
+    
+    - name: Run Chrome in headless mode
+      run: |
+          google-chrome-stable --headless --disable-gpu --no-sandbox --remote-debugging-port=9222 &
+  
     - name: Install dependencies
       run: |
         pip install selenium pandas webdriver-manager jupyter nbconvert
