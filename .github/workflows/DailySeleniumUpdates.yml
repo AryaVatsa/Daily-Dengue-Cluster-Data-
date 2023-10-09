@@ -20,14 +20,11 @@ jobs:
     - name: Setup Chrome Driver
       uses: nanasess/setup-chromedriver@master
     
-    - name: Run Chrome in headless mode
-      run: |
-          google-chrome-stable --headless --disable-gpu --no-sandbox --remote-debugging-port=9222 &
   
     - name: Install dependencies
       run: |
         pip install selenium pandas webdriver-manager jupyter nbconvert
         
     - name: Run the notebook
-      run: jupyter nbconvert --to notebook --execute NEAwebsite.ipynb
+      run: jupyter nbconvert --to notebook --execute --debug NEAwebsite.ipynb
 
