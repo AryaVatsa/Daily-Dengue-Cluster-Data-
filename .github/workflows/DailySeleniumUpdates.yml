@@ -2,7 +2,7 @@ name: Daily Selenium Script
 
 on:
   schedule:
-    - cron: '50 06 * * *'  
+    - cron: '24 07 * * *'  
 
 jobs:
   build:
@@ -26,5 +26,5 @@ jobs:
         pip install selenium pandas webdriver-manager jupyter nbconvert
         
     - name: Run  script
-      run: python NEAwebsite.py
+      run: python Dengue/NEAwebsite.py
 
