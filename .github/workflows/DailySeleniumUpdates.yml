@@ -2,7 +2,7 @@ name: Daily Selenium Script
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # This will run the job daily at midnight
+    - cron: '0 11 * * *'  # This will run the job daily at midnight
 
 jobs:
   build:
