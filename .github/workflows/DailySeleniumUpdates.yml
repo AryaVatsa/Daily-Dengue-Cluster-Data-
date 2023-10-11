@@ -2,7 +2,7 @@ name: Daily Selenium Script
 
 on:
   schedule:
-    - cron: '59 06 * * 0-6'  
+    - cron: '37 09 * * 0-6'  
 
 jobs:
   build:
