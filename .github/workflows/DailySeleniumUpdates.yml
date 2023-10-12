@@ -2,14 +2,14 @@ name: Daily Selenium Script
 
 on:
   schedule:
-    - cron: '08 14 * * 0-6'  
+    - cron: '45 07 * * 0-6'  
 
 jobs:
   build:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Checkout code 2.59
+    - name: Checkout code 
       uses: actions/checkout@v3
       
     - name: Setup Python
