@@ -2,7 +2,7 @@ name: Daily Selenium Script
 
 on:
   schedule:
-    - cron: '45 07 * * 0-6'  
+    - cron: '52 11 * * 0-6'  
 
 jobs:
   build:
@@ -34,7 +34,8 @@ jobs:
         git config user.email "arya.vatsa@icloud.com"
         git add Dengue/NeaDataOverview 
         git add Dengue/NeaLocalityData
-        git commit -m "Update NeaDataOverview and NeaLocalityData"
+        git add Dengue/NeaDataLocalities
+        git commit -m "Update NeaDataOverview and NeaDataLocalities"
         git push
     
 
