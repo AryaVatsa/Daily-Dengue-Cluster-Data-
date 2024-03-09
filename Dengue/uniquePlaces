@@ -1,297 +1,510 @@
-index,place
-0,Club Street
-1,Club Street (Emerald Garden)
-2,Gemmill Lane
-3,Mccallum Street (The Clift)
-4,South Bridge Road
-5,Countryside Road
-6,Lentor Avenue
-7,Lentor Crescent
-8,Lentor Link
-9,Lentor Street
-10,Lentor Terrace
-11,Lentor Loop (Bullion Park)
-12,Cardiff Grove (Cardiff Residence)
-13,Golden Drive
-14,Golden Rise
-15,Golden Walk
-16,Jalan Pacheli
-17,Li Hwan Close
-18,Li Hwan Drive
-19,Li Hwan View
-20,Tai Hwan Avenue
-21,Tai Hwan Crescent
-22,Tai Hwan Drive
-23,Tai Hwan Terrace
-24,Cross Street
-25,Mosque Street
-26,Upper Cross Street
-27,Upper Cross Street (Blk 532)
-28,Upper Cross Street (Blk 533)
-29,Upper Cross Street (Blk 535)
-30,Upper Cross Street (Blk 536)
-31,Upper Cross Street (Blk 538)
-32,Tampines Street 22
-33,Tampines Street 22 (Blk 289)
-34,Tampines Street 22 (Blk 294)
-35,Tampines Street 22 (Blk 295)
-36,Tampines Street 22 (Blk 296)
-37,Tampines Street 22 (Blk 297)
-38,Tampines Street 22 (Blk 298)
-39,Tampines Street 22 (Blk 299A)
-40,Tampines Street 22 (Blk 299B)
-41,Jalan Tenteram (Blk 16)
-42,Jalan Tenteram (Blk 19)
-43,Jalan Tenteram (Blk 20)
-44,Jalan Tenteram (Blk 116B)
-45,Jalan Tenteram (Blk 117B)
-46,Buckley Road (Buckley Classique)
-47,Chancery Lane
-48,Chancery Lane (Chancery Esquire)
-49,Dunearn Road (Chancery Court)
-50,Evelyn Road
-51,Gentle Road
-52,Gilstead Road
-53,Leedon Heights
-54,Leedon Heights (Leedon Residence)
-55,Bukit Batok Central (Blk 103)
-56,Bukit Batok Central (Blk 106)
-57,Bukit Batok West Avenue 6 (Blk 111)
-58,Bukit Batok West Avenue 6 (Blk 112)
-59,Lorong 1 Toa Payoh (Blk 113)
-60,Lorong 1 Toa Payoh (Blk 114)
-61,Lorong 1 Toa Payoh (Blk 115)
-62,Toa Payoh North (Blk 206)
-63,Toa Payoh North (Blk 209)
-64,Clementi West Street 2 (Blk 706)
-65,West Coast Road (Blk 502)
-66,West Coast Road (Blk 701)
-67,West Coast Road (Blk 702)
-68,West Coast Road (Blk 703)
-69,West Coast Road (Blk 704)
-70,Jalan Girang
-71,Serangoon Avenue 3 (Blk 329)
-72,Serangoon Avenue 3 (Blk 331)
-73,Serangoon Avenue 3 (The Sunnydale)
-74,New Market Road
-75,New Market Road (Blk 32)
-76,Park Road (People's Park Complex)
-77,Upper Cross Street (Blk 34)
-78,Mei Hwan Crescent
-79,Mei Hwan Drive
-80,Bishan Street 22 (Blk 239)
-81,Bishan Street 22 (Blk 242)
-82,Bukit Batok West Avenue 8 (Blk 178)
-83,Bukit Batok West Avenue 8 (Blk 183)
-84,Lorong 2 Toa Payoh (Blk 147)
-85,Pandan Gardens (Blk 406)
-86,Pandan Gardens (Blk 412)
-87,Pandan Gardens (Blk 413)
-88,Serangoon Garden Way
-89,Bukit Batok East Avenue 3 (Blk 286)
-90,Bukit Batok East Avenue 3 (Blk 285)
-91,Bukit Batok East Avenue 3 (Blk 287)
-92,Bukit Batok East Avenue 4 (Blk 274)
-93,Canberra Crescent (Blk 130A)
-94,Canberra Street (Blk 126A)
-95,Canberra Street (Blk 129A)
-96,Canberra Street (Blk 129B)
-97,Jurong West Central 1 (Blk 680A)
-98,Jurong West Central 1 (Blk 680B)
-99,Jurong West Street 64 (Blk 676B)
-100,Woodlands Industrial Park E5
-101,Ang Mo Kio Avenue 10 (Blk 410)
-102,Ang Mo Kio Avenue 10 (Blk 473)
-103,Ang Mo Kio Avenue 10 (Blk 476)
-104,Ang Mo Kio Avenue 4 (Blk 106)
-105,Ang Mo Kio Avenue 4 (Blk 107)
-106,Ang Mo Kio Avenue 6 (Blk 713)
-107,Ang Mo Kio Avenue 6 (Blk 716)
-108,Ang Mo Kio Avenue 6 (Blk 725)
-109,Bendemeer Road (Blk 38B)
-110,Bendemeer Road (Blk 43)
-111,Bishan Street 22 (Blk 232)
-112,Bishan Street 24 (Blk 286)
-113,Bukit Batok West Avenue 2
-114,Bukit Batok West Avenue 2 (Blk 420)
-115,Bukit Batok West Avenue 2 (Blk 422)
-116,Dover Road (Blk 1)
-117,Dover Road (Blk 2)
-118,Dover Road (Blk 3)
-119,Fajar Road (Blk 418)
-120,Saujana Road (Blk 409)
-121,Saujana Road (Blk 415)
-122,Fernvale Lane (Blk 405A)
-123,Fernvale Lane (Blk 405C)
-124,Fernvale Road (Blk 406B)
-125,Fudu Park
-126,Jalan Bukit Merah (Blk 106)
-127,Jalan Bukit Merah (Blk 108)
-128,Jalan Jambu Batu
-129,Jalan Jambu Mawar
-130,Jalan Kukoh (Blk 2)
-131,Jalan Kukoh (Blk 3)
-132,York Hill (Blk 13)
-133,Jurong West Central 1 (Blk 692)
-134,Jurong West Central 1 (Blk 695)
-135,Jurong West Central 3 (Blk 698A)
-136,Jurong West Street 74 (Blk 766)
-137,Jurong West Street 75
-138,Jurong West Street 93 (Blk 965)
-139,Kaki Bukit Road 3
-140,Kreta Ayer Road (Blk 333)
-141,Sago Lane (Blk 4)
-142,Smith Street
-143,Lorong 1 Toa Payoh (Blk 117)
-144,Lorong 1 Toa Payoh (Blk 118)
-145,Lorong 2 Toa Payoh (Blk 116)
-146,Lorong 1 Toa Payoh (Blk 130A)
-147,Lorong 1 Toa Payoh (Blk 131B)
-148,Marine Drive (Blk 67)
-149,Marine Drive (Blk 73)
-150,Punggol Drive (Blk 619B)
-151,West Coast Crescent
-152,West Coast Crescent (Blue Horizon)
-153,West Coast Crescent (The Vision)
-154,Woodlands Avenue 1 (Blk 336)
-155,Woodlands Avenue 1 (Blk 337)
-156,Ang Mo Kio Avenue 1 (Blk 216)
-157,Ang Mo Kio Avenue 1 (Blk 220)
-158,Ang Mo Kio Avenue 3 (Blk 211)
-159,Ang Mo Kio Avenue 3 (Blk 212)
-160,Ang Mo Kio Avenue 3 (Blk 313)
-161,Ang Mo Kio Avenue 3 (Blk 326)
-162,Ang Mo Kio Avenue 5 (Blk 152)
-163,Ang Mo Kio Avenue 5 (Blk 180)
-164,Balam Road (Blk 33)
-165,Circuit Road (Blk 37)
-166,Bedok North Drive (Bedok Residences)
-167,Bedok North Street 1 (Blk 202)
-168,Bedok Reservoir Road (Blk 113)
-169,Bedok Reservoir Road (Blk 120)
-170,Bukit Merah View (Blk 130)
-171,Cashew Road (Blk 135)
-172,Cashew Road (Cashew Heights)
-173,Chempaka Kuning Link
-174,Commonwealth Avenue (Commonwealth Towers)
-175,Commonwealth Crescent (Blk 98)
-176,Commonwealth Crescent (Blk 101)
-177,Depot Road (Blk 104B)
-178,Depot Road (Blk 106B)
-179,Devonshire Road (One Devonshire)
-180,Killiney Road (Claremont)
-181,Geylang East Avenue 1 (Tre Residences)
-182,Hougang Avenue 2 (Blk 706)
-183,Hougang Avenue 2 (Blk 710)
-184,International Road
-185,Jalan Mat Jambol (Bijou)
-186,Jurong East Street 31 (Blk 320)
-187,Jurong East Street 31 (Blk 323)
-188,Jurong West Street 52 (Blk 514)
-189,Jurong West Street 52 (Blk 515)
-190,Kim Cheng Street (Blk 45)
-191,Moh Guan Terrrace (Blk 47)
-192,Lavender Street
-193,Margaret Drive (Blk 37)
-194,Margaret Drive (Blk 39A)
-195,Ocean Drive (The Oceanfront @ Sentosa Cove)
-196,Old Choa Chu Kang Road
-197,Rivervale Drive (Blk 194)
-198,Segar Road (Blossom Residences)
-199,Sennett Lane
-200,Sennett Road
-201,Serangoon North Avenue 4 (Blk 500)
-202,Serangoon North Avenue 4 (Blk 534)
-203,Serangoon Road (Regent Residences)
-204,Saint George Road (Blk 10)
-205,Sturdee Road (Kerrisdale)
-206,Toh Guan Road East
-207,Woodlands Drive 73 (Blk 685B)
-208,Woodlands Street 13 (Blk 177)
-209,Woodlands Street 13 (Blk 183A)
-210,Jalan Tenteram (Blk 17)
-211,Clementi West Street 2 (Blk 707)
-212,Ang Mo Kio Avenue 10 (Blk 442)
-213,Ang Mo Kio Avenue 10 (Blk 464)
-214,Ang Mo Kio Avenue 10 (Blk 465)
-215,Ang Mo Kio Avenue 4 (Blk 157)
-216,Jalan Manis
-217,Jurong West Street 64 (Blk 669D)
-218,Jurong West Street 65 (Blk 671B)
-219,Hougang Avenue 7 (Riverfront Residences)
-220,Upper Serangoon View (Rio Vista)
-221,Telok Blangah Way (Blk 34)
-222,Clementi West Street 2 (Blk 712)
-223,Pearl's Hill Terrace
-224,Saint George Road (Blk 1)
-225,Saint George Road (Blk 11)
-226,Woodgrove Drive (Woodgrove Condominium)
-227,Ang Mo Kio Avenue 3 (Blk 202)
-228,Ang Mo Kio Avenue 3 (Blk 203)
-229,Pasir Ris Drive 10 (Blk 649)
-230,Pasir Ris Drive 10 (Blk 650)
-231,Coronation Road West (Astrid Meadows)
-232,Seletar North Link
-233,Lentor Place
-234,Jalan Tenteram (Blk 21)
-235,Havelock Square
-236,Serangoon Road
-237,Canberra Street (Blk 128C)
-238,Lentor Green
-239,Lentor Loop
-240,Lentor Vale
-241,Ang Mo Kio Avenue 3 (Blk 209)
-242,Gangsa Road (Blk 147)
-243,Petir Road (Blk 143)
-244,Petir Road (Blk 145)
-245,Punggol Drive (Blk 617A)
-246,Circuit Road (Blk 41)
-247,Jalan Chempaka Kuning
-248,Fajar Road (Blk 421)
-249,Ming Teck Park
-250,Queen Astrid Gdns
-251,Sixth Avenue
-252,Tampines Street 23 (Blk 213)
-253,Tampines Street 23 (Blk 216)
-254,Tampines Street 23 (Blk 228)
-255,Telok Blangah Rise (Blk 38)
-256,Woodlands Street 32 (Blk 344)
-257,Woodlands Street 32 (Blk 345)
-258,Circuit Road (Blk 18B)
-259,Paya Lebar Road (Le Crescendo)
-260,Clementi Avenue 2 (Blk 362)
-261,Clementi Avenue 2 (Blk 365)
-262,Saint George Road (Blk 9)
-263,Circuit Road (Blk 61)
-264,Bright Hill Crescent
-265,Woodlands Industrial Park
-266,E2
-267,E5
-268,Jalan Tenteram (Blk 117A)
-269,Bukit Batok Central (Blk 105)
-270,Lucky Heights
-271,Woodlands Avenue 1 (Blk 339)
-272,Bishan Street 22 (Blk 238)
-273,Clementi Avenue 4 (Blk 304)
-274,Clementi Avenue 4 (Blk 311B)
-275,Clementi Avenue 4 (Blk 315)
-276,Margaret Drive (Blk 40A)
-277,Guillemard Road
-278,Lorong 8 Geylang
-279,Leedon Heights (D'Leedon)
-280,Woodlands Drive (Blk 704)
-281,Woodlands Drive 40 (Blk 706)
-282,Bukit Batok Central (Blk 107)
-283,Bishan Street 22 (Blk 284)
-284,Choa Chu Kang Avenue 4 (Blk 432)
-285,Choa Chu Kang Avenue 4 (Blk 434)
-286,Choa Chu Kang Central (Blk 234)
-287,Holland Drive (Blk 18C)
-288,Jurong East Avenue 1 (Blk 240B)
-289,Jurong East Street 24 (Blk 241)
-290,Punggol Central (Blk 160B)
-291,Punggol Central (Blk 166A)
-292,Rivervale Link (The Rivervale)
-293,Shaw Road
-294,Shunfu Road (Blk 307)
-295,Shunfu Road (Blk 309)
+,place,cases,date extracted,lat,long
+0,Ang Mo Kio Avenue 1 (Blk 304),9,2024-03-09,1.357303,103.855331
+1,Ang Mo Kio Avenue 1 (Blk 305),11,2024-03-09,1.3662005,103.8460886
+2,Ang Mo Kio Avenue 1 (Blk 306),10,2024-03-09,1.3658406,103.8453573
+3,Ang Mo Kio Avenue 1 (Blk 307A),2,2024-03-09,1.3660664,103.8444576
+4,Ang Mo Kio Avenue 1 (Blk 307B),2,2024-03-09,1.3661779,103.844993
+5,Ang Mo Kio Avenue 1 (Blk 307C),5,2024-03-09,1.365817,103.845442
+6,Ang Mo Kio Avenue 1 (Blk 308A),4,2024-03-09,1.3646862,103.8479769
+7,Ang Mo Kio Avenue 1 (Blk 308B),4,2024-03-09,1.36572,103.844883
+8,Ang Mo Kio Avenue 1 (Blk 310A),5,2024-03-09,1.364541,103.8439714
+9,Ang Mo Kio Avenue 1 (Blk 310B),10,2024-03-09,1.3647479,103.844284
+10,Ang Mo Kio Avenue 1 (Blk 310C),4,2024-03-09,1.3646501,103.8448577
+11,Ang Mo Kio Avenue 1 (Blk 319),4,2024-03-09,1.3649906,103.8479057
+12,Ang Mo Kio Avenue 1 (Blk 321),5,2024-03-09,1.3650981,103.8483943
+13,Ang Mo Kio Avenue 1 (Blk 339),1,2024-03-09,1.3654249,103.8489804
+14,Ang Mo Kio Avenue 3 (Blk 301),10,2024-03-09,1.3674211,103.8459036
+15,Ang Mo Kio Avenue 3 (Blk 302),13,2024-03-09,1.3666622,103.846161
+16,Ang Mo Kio Avenue 3 (Blk 311),1,2024-03-09,1.366628,103.848772
+17,Ang Mo Kio Avenue 3 (Blk 312),2,2024-03-09,1.3662058,103.8487787
+18,Ang Mo Kio Avenue 3 (Blk 313),2,2024-03-09,1.3686727,103.8443357
+19,Ang Mo Kio Avenue 3 (Blk 314),5,2024-03-09,1.3686727,103.8443357
+20,Ang Mo Kio Avenue 3 (Blk 324),3,2024-03-09,1.368294,103.847065
+21,Ang Mo Kio Avenue 3 (Blk 325),6,2024-03-09,1.367829,103.847146
+22,Ang Mo Kio Avenue 3 (Blk 326),1,2024-03-09,1.3675131,103.848223
+23,Ang Mo Kio Avenue 3 (Blk 327),1,2024-03-09,1.367215,103.846478
+24,Ang Mo Kio Avenue 3 (Blk 328),2,2024-03-09,1.36662,103.84787
+25,Ang Mo Kio Avenue 3 (Blk 329),5,2024-03-09,1.3666466,103.8466046
+26,Ang Mo Kio Avenue 3 (Blk 343),1,2024-03-09,1.3684981,103.8490761
+27,Ang Mo Kio Avenue 3 (Blk 345),2,2024-03-09,1.3674912,103.8496386
+28,Ang Mo Kio Avenue 3 (Blk 346),1,2024-03-09,1.366734,103.848276
+29,Ang Mo Kio Avenue 3 (Blk 348),9,2024-03-09,1.366728,103.848249
+30,Ang Mo Kio Street 31 (Blk 309A),9,2024-03-09,1.3648671,103.8455716
+31,Ang Mo Kio Street 31 (Blk 315A),8,2024-03-09,1.364348,103.846788
+32,Ang Mo Kio Street 31 (Blk 315B),1,2024-03-09,1.364125,103.847476
+33,Ang Mo Kio Street 31 (Blk 316A),4,2024-03-09,1.3646041,103.8469081
+34,Ang Mo Kio Street 31 (Blk 317),12,2024-03-09,1.3655271,103.8470293
+35,Ang Mo Kio Avenue 3 (Blk 101),7,2024-03-09,1.370214,103.839225
+36,Ang Mo Kio Avenue 3 (Blk 102),3,2024-03-09,1.3706163,103.8392427
+37,Ang Mo Kio Avenue 3 (Blk 132),1,2024-03-09,1.3713546,103.8423819
+38,Ang Mo Kio Avenue 3 (Blk 133),1,2024-03-09,1.369035,103.843618
+39,Ang Mo Kio Avenue 4 (Blk 105),3,2024-03-09,1.372383,103.837666
+40,Ang Mo Kio Avenue 4 (Blk 106),5,2024-03-09,1.3717527,103.8376101
+41,Ang Mo Kio Avenue 4 (Blk 109),2,2024-03-09,1.370149,103.837658
+42,Ang Mo Kio Avenue 4 (Blk 112),2,2024-03-09,1.3713254,103.8360746
+43,Ang Mo Kio Avenue 4 (Blk 113),1,2024-03-09,1.3717182,103.8359396
+44,Ang Mo Kio Avenue 4 (Blk 114),1,2024-03-09,1.372466,103.836016
+45,Ang Mo Kio Avenue 4 (Blk 117),1,2024-03-09,1.3736853,103.83548
+46,Ang Mo Kio Avenue 4 (Blk 170),1,2024-03-09,1.374061,103.836502
+47,Ang Mo Kio Street 11 (Blk 104A),3,2024-03-09,1.370821,103.838868
+48,Ang Mo Kio Street 11 (Blk 104B),2,2024-03-09,1.3715455,103.8384245
+49,Mayflower Avenue,4,2024-03-09,1.37332485,103.83757255
+50,Mayflower Crescent,2,2024-03-09,1.3726826,103.8400639
+51,Mayflower Drive,2,2024-03-09,1.3730268,103.8384933
+52,Mayflower Lane,7,2024-03-09,1.3710382,103.8406859
+53,Mayflower Place,3,2024-03-09,1.37345199,103.84023396
+54,Mayflower Rise,1,2024-03-09,1.37303795,103.83810875
+55,Mayflower Road,1,2024-03-09,1.37080478,103.84101463
+56,Mayflower Terrace,8,2024-03-09,1.37172855,103.84107515
+57,Mayflower Way,3,2024-03-09,1.37226455,103.8405906
+58,Jurong West Central 1 (Blk 677B),1,2024-03-09,1.3442785,103.7060849
+59,Jurong West Central 1 (Blk 679A),1,2024-03-09,1.3442785,103.7060849
+60,Jurong West Central 1 (Blk 679C),1,2024-03-09,1.34461,103.70606
+61,Jurong West Central 1 (Blk 680C),1,2024-03-09,1.345015,103.705789
+62,Jurong West Central 1 (Blk 683A),1,2024-03-09,1.3426515,103.7051327
+63,Jurong West Central 1 (Blk 691),1,2024-03-09,1.342948,103.705652
+64,Jurong West Central 1 (Blk 692),7,2024-03-09,1.3420742,103.7065352
+65,Jurong West Central 1 (Blk 693),1,2024-03-09,1.3431172,103.7061842
+66,Jurong West Central 1 (Blk 694),5,2024-03-09,1.3433793,103.7071148
+67,Jurong West Central 1 (Blk 695),5,2024-03-09,1.3429003,103.7072751
+68,Jurong West Central 1 (Blk 696),15,2024-03-09,1.3421076,103.707589
+69,Jurong West Central 3 (Blk 698),1,2024-03-09,1.340879,103.707495
+70,Jurong West Street 64 (Blk 678C),1,2024-03-09,1.344845,103.703726
+71,Jurong West Street 64 (Blk 684C),1,2024-03-09,1.3435972,103.7045014
+72,Bukit Batok Street 21 (Blk 201),15,2024-03-09,1.3462132,103.748092
+73,Bukit Batok Street 21 (Blk 202),12,2024-03-09,1.346409,103.748431
+74,Bukit Batok Street 21 (Blk 203),5,2024-03-09,1.3472577,103.7491044
+75,Bukit Batok Street 21 (Blk 204),3,2024-03-09,1.3475265,103.749899
+76,Bukit Batok Street 21 (Blk 205),4,2024-03-09,1.3470488,103.7498765
+77,Bukit Batok Street 21 (Blk 206),10,2024-03-09,1.346742,103.749399
+78,Bukit Batok Street 21 (Blk 207),8,2024-03-09,1.34568,103.751248
+79,Bukit Batok Street 21 (Blk 208),7,2024-03-09,1.3459111,103.7487991
+80,Bukit Batok Street 21 (Blk 209),6,2024-03-09,1.34667235,103.75546125
+81,Bukit Batok Street 21 (Blk 210),28,2024-03-09,1.3459537,103.7497926
+82,Bukit Batok Street 21 (Blk 210A),22,2024-03-09,1.3458095,103.7510831
+83,Bukit Batok Street 21 (Blk 211),22,2024-03-09,1.346614,103.750747
+84,Bukit Batok Street 21 (Blk 211A),1,2024-03-09,1.3471181,103.7502163
+85,Bukit Batok Street 22 (Blk 296A),1,2024-03-09,1.3443934,103.7464434
+86,Bukit Batok Street 22 (Blk 297),2,2024-03-09,1.3451146,103.7472544
+87,Bukit Batok Street 22 (Blk 299),3,2024-03-09,1.344355,103.747238
+88,Jalan Manis,2,2024-03-09,1.32559305,103.8635428
+89,Jalan Semerbak,3,2024-03-09,1.3247609,103.86370365
+90,Jalan Taman,1,2024-03-09,1.3250794,103.8655442
+91,Jalan Taman (Rio Gardens),5,2024-03-09,1.325944,103.86471055
+92,Mar Thoma Road,1,2024-03-09,1.3283779,103.86353775
+93,Mar Thoma Road (Beacon Heights),31,2024-03-09,39.1532788,-76.61078379
+94,Mar Thoma Road (Riveira 38),1,2024-03-09,1.3281583,103.8632507
+95,Mar Thoma Road (Riverbay),3,2024-03-09,1.32682993,103.86173822
+96,Mar Thoma Road (The Callista),5,2024-03-09,1.3283779,103.86353775
+97,Mar Thoma Road (The Elysia),1,2024-03-09,1.32830057,103.86320025
+98,Saint Francis Road (Saint Francis Court),1,2024-03-09,37.61456524,-85.4315311
+99,Saint George's Road (Blk 11),1,2024-03-09,1.3231698,103.8634601
+100,Saint George's Road (Blk 13),2,2024-03-09,1.32334,103.862936
+101,Saint George's Road (Blk 14),3,2024-03-09,1.3239383,103.8620691
+102,Saint George's Road (Blk 15),3,2024-03-09,1.3243177,103.861733
+103,Saint George's Road (Blk 16),1,2024-03-09,1.324267,103.862313
+104,Saint George's Road (Blk 18),1,2024-03-09,1.324218,103.8627826
+105,Saint George's Road (Blk 20),4,2024-03-09,1.3246522,103.8630974
+106,Saint George's Road (Blk 21),10,2024-03-09,1.32492,103.862235
+107,Saint George's Road (Blk 22),5,2024-03-09,1.3252063,103.8624458
+108,Saint Michael's Road,6,2024-03-09,1.32682014,103.86264893
+109,Saint Michael's Road (Airstream),2,2024-03-09,1.32670555,103.8628085
+110,Saint Michael's Road (City Regency),5,2024-03-09,1.32682014,103.86264893
+111,Saint Michael's Road (Saint Michael Regency),1,2024-03-09,1.324588,103.8653216
+112,Saint Michael's Road (Saint Michael's Condominium),8,2024-03-09,1.32708965,103.8636156
+113,Saint Michael's Road (Sunville),19,2024-03-09,1.32670555,103.8628085
+114,Ang Mo Kio Avenue 1 (Blk 205),2,2024-03-09,1.3669376,103.8435699
+115,Ang Mo Kio Avenue 1 (Blk 206),2,2024-03-09,1.365523,103.842119
+116,Ang Mo Kio Avenue 1 (Blk 207),6,2024-03-09,1.36594,103.842928
+117,Ang Mo Kio Avenue 1 (Blk 218),1,2024-03-09,1.3653498,103.8417164
+118,Ang Mo Kio Avenue 3 (Blk 201),2,2024-03-09,1.3686727,103.8443357
+119,Ang Mo Kio Avenue 3 (Blk 202),3,2024-03-09,1.3684192,103.8441865
+120,Ang Mo Kio Avenue 3 (Blk 203),4,2024-03-09,1.367693,103.844121
+121,Ang Mo Kio Avenue 3 (Blk 204),5,2024-03-09,1.367374,103.843924
+122,Ang Mo Kio Avenue 3 (Blk 209),4,2024-03-09,1.3687588,103.8434049
+123,Ang Mo Kio Avenue 3 (Blk 210),1,2024-03-09,1.368782,103.843342
+124,Elias Road (Ris Grandeur),20,2024-03-09,1.3802152,103.94421715
+125,Mandalay Road (Mandalay Towers),1,2024-03-09,1.323397,103.849167
+126,Mandalay Road (The Ansley),2,2024-03-09,1.323136,103.8492609
+127,Martaban Road,4,2024-03-09,1.32309885,103.8504808
+128,Martaban Road (Ecoville),1,2024-03-09,1.35652304,103.80859375
+129,Minbu Road (Medge),1,2024-03-09,1.3234568,103.85002355
+130,Pegu Road,4,2024-03-09,1.3231413,103.85138185
+131,Pegu Road (The Tier),1,2024-03-09,1.3231413,103.85138185
+132,Marsiling Drive (Blk 201),1,2024-03-09,1.4424422,103.7751329
+133,Marsiling Drive (Blk 202),1,2024-03-09,1.4432248,103.7750036
+134,Marsiling Drive (Blk 22),5,2024-03-09,1.441831,103.773931
+135,Marsiling Drive (Blk 23),11,2024-03-09,1.4404915,103.775916
+136,Marsiling Drive (Blk 24),16,2024-03-09,1.442007,103.772628
+137,Marsiling Drive (Blk 25),19,2024-03-09,1.442144,103.772276
+138,Marsiling Drive (Blk 26),7,2024-03-09,1.4420191,103.7730401
+139,Marsiling Drive (Blk 28),4,2024-03-09,1.442776,103.773912
+140,Marsiling Drive (Blk 30),15,2024-03-09,1.4423777,103.7726118
+141,Marsiling Drive (Blk 31),2,2024-03-09,1.440497,103.775916
+142,Marsiling Drive (Blk 32),1,2024-03-09,1.443401,103.772927
+143,Marsiling Drive (Blk 33),2,2024-03-09,1.4433978,103.7721377
+144,Jalan Bukit Merah (Blk 141),2,2024-03-09,1.2863783,103.807276
+145,Jalan Bukit Merah (Blk 143),1,2024-03-09,1.278975,103.828174
+146,Jalan Bukit Merah (Blk 146),1,2024-03-09,1.278918,103.828182
+147,Silat Avenue,1,2024-03-09,1.2766544,103.83053285
+148,Silat Avenue (Avenue South Residence),6,2024-03-09,1.2766544,103.83053285
+149,Spooner Road,1,2024-03-09,1.27536683,103.83243567
+150,Spooner Road (Blk 1),6,2024-03-09,1.2754642,103.8306144
+151,Spooner Road (Blk 2),6,2024-03-09,1.2755271,103.8303011
+152,Race Course Road,4,2024-03-09,1.30849035,103.85097585
+153,Race Course Road (Blk 685),1,2024-03-09,1.3141485,103.8567599
+154,Serangoon Road,8,2024-03-09,1.36520159,103.86782074
+155,Sing Joo Walk (Jool Suites),1,2024-03-09,1.35652304,103.80859375
+156,Sturdee Road (Kerrisdale),4,2024-03-09,1.35652304,103.80859375
+157,Tessensohn Road (Blk 683),1,2024-03-09,1.315079,103.85612
+158,Jurong Lake Link (Lake Grande),1,2024-03-09,1.35652304,103.80859375
+159,Jurong West Street 41 (Blk 478),1,2024-03-09,1.34979,103.72088
+160,Jurong West Street 41 (Blk 480),2,2024-03-09,1.3469181,103.7239621
+161,Jurong West Street 41 (Blk 498),1,2024-03-09,1.3485732,103.7242863
+162,Jurong West Street 41 (The Lakeshore),6,2024-03-09,1.34760475,103.72322095
+163,Jalan Bahagia (Blk 27),3,2024-03-09,1.325951,103.859108
+164,Jalan Bahagia (Blk 29),1,2024-03-09,1.3254661,103.8590144
+165,Jalan Bahagia (Blk 32),1,2024-03-09,1.32601922,103.85958321
+166,Jalan Bahagia (Blk 34),4,2024-03-09,1.327007,103.857591
+167,Jalan Bahagia (Blk 35),1,2024-03-09,1.3270974,103.8574102
+168,Jalan Bahagia (Blk 41),1,2024-03-09,1.327041,103.856605
+169,Whampoa Drive (Blk 74),2,2024-03-09,1.3250221,103.8577669
+170,Whampoa Drive (Blk 75),2,2024-03-09,1.3241727,103.8581236
+171,Whampoa Road (Blk 114),1,2024-03-09,1.325587,103.857495
+172,Woodlands Avenue 1 (Blk 351),2,2024-03-09,1.4320268,103.7841611
+173,Woodlands Avenue 5 (Blk 356),11,2024-03-09,1.433404,103.7850216
+174,Woodlands Avenue 5 (Blk 357),1,2024-03-09,1.4332154,103.7844565
+175,Woodlands Avenue 5 (Blk 358),1,2024-03-09,1.433338,103.783705
+176,Woodlands Avenue 5 (Blk 359),3,2024-03-09,1.4345563,103.7834447
+177,Woodlands Avenue 5 (Blk 360),2,2024-03-09,1.433953,103.784426
+178,Bukit Batok Central (Blk 225),2,2024-03-09,1.34775,103.7515
+179,Bukit Batok Central (Blk 228),2,2024-03-09,1.34847,103.75409
+180,Bukit Batok Central (Blk 639),5,2024-03-09,1.34946,103.7520509
+181,Bukit Batok East Avenue 3 (Blk 223),1,2024-03-09,1.348022,103.753371
+182,Bukit Batok Street 21 (Blk 212),2,2024-03-09,1.3469863,103.7521397
+183,Bukit Batok Street 21 (Blk 218),1,2024-03-09,1.3473307,103.7542973
+184,Bukit Batok East Avenue 3 (Blk 290C),3,2024-03-09,1.3440638,103.7571503
+185,Bukit Batok Street 24 (Blk 290A),2,2024-03-09,1.3432091,103.7565779
+186,Bukit Batok Street 24 (Blk 290E),1,2024-03-09,1.3438201,103.7578594
+187,Bukit Batok Street 24 (Blk 290F),3,2024-03-09,1.343318,103.757457
+188,Bukit Batok Street 24 (Blk 290G),1,2024-03-09,1.343268,103.757063
+189,Bukit Batok Street 24 (Blk 291C),1,2024-03-09,1.3428778,103.7554695
+190,Pasir Ris Central,5,2024-03-09,1.37206459,103.94793701
+191,Pasir Ris Street 52 (Blk 500),7,2024-03-09,1.376067,103.946141
+192,Pasir Ris Street 52 (Blk 501),6,2024-03-09,1.375905,103.946446
+193,Pasir Ris Street 52 (Blk 502),3,2024-03-09,1.375601,103.945947
+194,Pasir Ris Street 52 (Blk 503),7,2024-03-09,1.3757088,103.9454818
+195,Pasir Ris Street 52 (Blk 504),2,2024-03-09,1.375794,103.945106
+196,Pasir Ris Street 52 (Blk 507),3,2024-03-09,1.37638,103.944599
+197,Pasir Ris Street 52 (Blk 508),1,2024-03-09,1.3760115,103.9445268
+198,Pasir Ris Street 52 (Blk 509),2,2024-03-09,1.375816,103.94421
+199,Pasir Ris Street 52 (Blk 510),5,2024-03-09,1.375598,103.944663
+200,Pasir Ris Street 52 (Blk 511),4,2024-03-09,1.375259,103.944016
+201,Pasir Ris Street 52 (Blk 512),4,2024-03-09,1.375404,103.943808
+202,Pasir Ris Street 52 (Blk 513),8,2024-03-09,1.375081,103.943661
+203,Pasir Ris Street 52 (Blk 514),1,2024-03-09,1.37459,103.943308
+204,Pasir Ris Street 52 (Blk 515),2,2024-03-09,1.3742234,103.9432512
+205,Pasir Ris Street 52 (Blk 517),5,2024-03-09,1.374681,103.9438503
+206,Pasir Ris Street 52 (Blk 518),6,2024-03-09,1.37423,103.944536
+207,Pasir Ris Street 52 (Blk 519),3,2024-03-09,1.374119,103.944869
+208,Pasir Ris Street 52 (Blk 520),1,2024-03-09,1.3735515,103.9446981
+209,Pasir Ris Street 52 (Blk 521),8,2024-03-09,1.3736659,103.9445474
+210,Pasir Ris Street 53,2,2024-03-09,1.37362865,103.9478404
+211,Pasir Ris Street 53 (Blk 570),3,2024-03-09,1.373112,103.945915
+212,Pasir Ris Street 53 (Blk 571),5,2024-03-09,1.373279,103.945597
+213,Pasir Ris Street 53 (Blk 572),8,2024-03-09,1.373393,103.9456902
+214,Pasir Ris Street 53 (Blk 573),7,2024-03-09,1.373822,103.945949
+215,Pasir Ris Street 53 (Blk 574),8,2024-03-09,1.374183,103.946224
+216,Pasir Ris Street 53 (Blk 575),15,2024-03-09,1.373157,103.946399
+217,Pasir Ris Street 53 (Blk 576),18,2024-03-09,1.373056,103.946706
+218,Pasir Ris Street 53 (Blk 577),10,2024-03-09,1.373842,103.947218
+219,Pasir Ris Street 53 (Blk 578),4,2024-03-09,1.3742049,103.9475826
+220,Pasir Ris Street 53 (Blk 579),7,2024-03-09,1.3742746,103.9475286
+221,Pasir Ris Street 53 (Blk 580),1,2024-03-09,1.374782,103.946864
+222,Pasir Ris Street 53 (Blk 581),1,2024-03-09,1.374796,103.9468314
+223,Pasir Ris Street 53 (Blk 582),4,2024-03-09,1.375282,103.946938
+224,Pasir Ris Street 53 (Blk 583),3,2024-03-09,1.375609,103.947165
+225,Pasir Ris Street 53 (Blk 584),2,2024-03-09,1.375075,103.947113
+226,Pasir Ris Street 53 (Blk 585),9,2024-03-09,1.37557,103.947334
+227,Pasir Ris Street 53 (Blk 586),3,2024-03-09,1.375291,103.947788
+228,Marsiling Drive (Blk 1),2,2024-03-09,1.4404917,103.775916
+229,Marsiling Drive (Blk 2),4,2024-03-09,1.440152,103.776616
+230,Marsiling Drive (Blk 5),1,2024-03-09,1.439459,103.775001
+231,Marsiling Road (Blk 137),2,2024-03-09,1.4382987,103.777032
+232,Marsiling Road (Blk 142),2,2024-03-09,1.4369049,103.7771118
+233,Marsiling Road (Blk 3),6,2024-03-09,1.4392287,103.7765753
+234,Marsiling Road (Blk 4),7,2024-03-09,1.4389971,103.776547
+235,Elias Road (Blk 602),1,2024-03-09,1.37744,103.943849
+236,Elias Road (Blk 603),2,2024-03-09,1.376986,103.943648
+237,Elias Road (Blk 604),7,2024-03-09,1.376308,103.943251
+238,Elias Road (Blk 606),2,2024-03-09,1.376712,103.942866
+239,Elias Road (Blk 607),6,2024-03-09,1.376195,103.942459
+240,Elias Road (Blk 608),9,2024-03-09,1.375958,103.942838
+241,Elias Road (Blk 609),9,2024-03-09,1.3757121,103.942682
+242,Elias Road (Blk 610),6,2024-03-09,1.37539,103.942096
+243,Elias Road (Blk 611),5,2024-03-09,1.375156,103.942307
+244,Elias Road (Blk 612),2,2024-03-09,1.3747651,103.941965
+245,Elias Road (Blk 613),2,2024-03-09,1.375106,103.941564
+246,Elias Road (Blk 614),7,2024-03-09,1.3757779,103.9417428
+247,Elias Road (Blk 615),3,2024-03-09,1.377058,103.941346
+248,Elias Road (Oasis @ Elias),7,2024-03-09,1.35652304,103.80859375
+249,Pasir Ris Drive 1 (Blk 637),3,2024-03-09,1.376806,103.940466
+250,Pasir Ris Drive 1 (Blk 638),3,2024-03-09,1.376209,103.94066
+251,Pasir Ris Drive 1 (Blk 640),1,2024-03-09,1.37596,103.94052
+252,Pasir Ris Drive 1 (Blk 641),1,2024-03-09,1.3765714,103.9397192
+253,Pasir Ris Drive 10 (Blk 701),1,2024-03-09,1.379908,103.938035
+254,Pasir Ris Drive 10 (Blk 702),2,2024-03-09,1.380428,103.937663
+255,Pasir Ris Drive 10 (Blk 703),4,2024-03-09,1.380575,103.937196
+256,Pasir Ris Drive 10 (Blk 704),3,2024-03-09,1.380684,103.937277
+257,Pasir Ris Drive 10 (Blk 705),1,2024-03-09,1.380627,103.937934
+258,Pasir Ris Drive 10 (Blk 706),2,2024-03-09,1.378514,103.939272
+259,Pasir Ris Drive 10 (Blk 707),1,2024-03-09,1.378509,103.939269
+260,Pasir Ris Drive 10 (Blk 736),11,2024-03-09,1.379638,103.937243
+261,Pasir Ris Drive 10 (Blk 737),16,2024-03-09,1.379563,103.937037
+262,Pasir Ris Drive 10 (Blk 738),6,2024-03-09,1.378996,103.93657
+263,Pasir Ris Drive 10 (Blk 739),15,2024-03-09,1.378634,103.936768
+264,Pasir Ris Street 72 (Blk 711),1,2024-03-09,1.3819451,103.9380933
+265,Pasir Ris Street 72 (Blk 712),1,2024-03-09,1.382149,103.938254
+266,Pasir Ris Street 72 (Blk 718),1,2024-03-09,1.382318,103.936363
+267,Pasir Ris Street 72 (Blk 719),1,2024-03-09,1.382089,103.936699
+268,Pasir Ris Street 72 (Blk 721),1,2024-03-09,1.381353,103.936317
+269,Pasir Ris Street 72 (Blk 722),1,2024-03-09,1.380948,103.936735
+270,Pasir Ris Street 72 (Blk 723),4,2024-03-09,1.380768,103.936677
+271,Pasir Ris Street 72 (Whitewater),4,2024-03-09,1.3811375,103.9350725
+272,Marsiling Rise (Blk 115),2,2024-03-09,1.4382762,103.781049
+273,Marsiling Rise (Blk 119),3,2024-03-09,1.4387013,103.7806189
+274,Marsiling Rise (Blk 123),1,2024-03-09,1.438665,103.779747
+275,Marsiling Rise (Blk 130),2,2024-03-09,1.438159,103.778726
+276,Marsiling Road (Blk 180B),1,2024-03-09,1.4395425,103.778565
+277,Woodlands Street 13 (Blk 113),1,2024-03-09,1.4380025,103.7814678
+278,Bedok Place,3,2024-03-09,1.3248692,103.95273105
+279,Bedok Ria Crescent,3,2024-03-09,1.32548685,103.9544428
+280,Bedok Ria Crescent (Stratford Court),3,2024-03-09,1.321802,103.94425845
+281,Bedok Ria Place,6,2024-03-09,1.3263153,103.95199564
+282,Bedok Road,2,2024-03-09,1.3215782,103.9550634
+283,Jalan Nipah,4,2024-03-09,1.32573115,103.9526836
+284,Bukit Batok Central Link (The Jade),1,2024-03-09,1.34937296,103.74827633
+285,Bukit Batok Central (Blk 103),1,2024-03-09,1.3487195,103.7480846
+286,Bukit Batok Central (Blk 105),1,2024-03-09,1.3484419,103.7471223
+287,Bukit Batok Central (Blk 125),2,2024-03-09,1.3500393,103.74881
+288,Bukit Batok West Avenue 6 (Blk 108),3,2024-03-09,1.3474762,103.7464736
+289,Bukit Batok West Avenue 6 (Blk 109),1,2024-03-09,1.346919,103.745749
+290,Bukit Batok West Avenue 6 (Blk 110),2,2024-03-09,1.3475839,103.7457459
+291,Bukit Batok West Avenue 6 (Blk 117),1,2024-03-09,1.349859,103.746658
+292,Bukit Batok West Avenue 6 (Blk 130),2,2024-03-09,1.3524857,103.7428273
+293,Alexandra Road (Alessandrea),2,2024-03-09,1.28680003,103.7963028
+294,Henderson Crescent (Blk 103),1,2024-03-09,1.2901735,103.821382
+295,Henderson Crescent (Blk 104),1,2024-03-09,1.289428,103.821391
+296,Henderson Crescent (Blk 105),3,2024-03-09,1.2900355,103.822693
+297,Henderson Crescent (Blk 106),2,2024-03-09,1.2894763,103.822253
+298,Henderson Road (Blk 96A),1,2024-03-09,1.289691,103.822923
+299,Elias Green (Elias Green),1,2024-03-09,1.3729097,103.9402172
+300,Elias Terrace,1,2024-03-09,1.37241345,103.94183555
+301,Pasir Ris Grove (Coco Palms),28,2024-03-09,1.37787414,103.94878387
+302,Pasir Ris Grove (D'nest),6,2024-03-09,1.37048335,103.94683655
+303,Pasir Ris Grove (Livia),12,2024-03-09,1.3728824,103.94491705
+304,Pasir Ris Grove (NV Residences),3,2024-03-09,1.37301585,103.94497065
+305,Pasir Ris Grove (The Palette),13,2024-03-09,1.38239155,103.946148
+306,Cashew Road (Cashew Heights),2,2024-03-09,1.37379265,103.7715528
+307,Gangsa Road (Blk 146),4,2024-03-09,1.3756758,103.7661575
+308,Gangsa Road (Blk 153),1,2024-03-09,1.374961,103.765419
+309,Gangsa Road (Blk 163),2,2024-03-09,1.3767189,103.7641108
+310,Gangsa Road (Blk 165),1,2024-03-09,1.3766354,103.765093
+311,Hazel Park Terrace (Hazel Park Condominium),2,2024-03-09,1.35652304,103.80859375
+312,Petir Road (Blk 142),1,2024-03-09,1.3764159,103.7676217
+313,Petir Road (Maysprings),3,2024-03-09,1.35652304,103.80859375
+314,Bukit Batok East Avenue 5 (Blk 231),1,2024-03-09,1.3492079,103.7542941
+315,Bukit Batok East Avenue 5 (Blk 233),1,2024-03-09,1.34874,103.75534
+316,Bukit Batok East Avenue 5 (Blk 236),3,2024-03-09,1.349357,103.755852
+317,Bukit Batok East Avenue 5 (Blk 243),1,2024-03-09,1.349643,103.756439
+318,Bukit Batok East Avenue 5 (Blk 244),1,2024-03-09,1.3493236,103.7571549
+319,Bukit Batok East Avenue 5 (Blk 247),1,2024-03-09,1.3497759,103.7569298
+320,Mcnair Road (Blk 108B),1,2024-03-09,1.320799,103.859116
+321,Mcnair Road (Blk 111),2,2024-03-09,1.321214,103.858468
+322,Mcnair Road (Blk 120),1,2024-03-09,1.31934,103.8574
+323,Towner Road (Blk 114),2,2024-03-09,1.3204294,103.8583024
+324,Jalan Ikan Merah,3,2024-03-09,1.3546887,103.83493079
+325,Jalan Sembilang,1,2024-03-09,1.3559019,103.8351466
+326,Jalan Terubok,4,2024-03-09,1.35516145,103.83581655
+327,Corporation Road (Lakeholmz),3,2024-03-09,1.35652304,103.80859375
+328,Lakepoint Drive (Lakepoint Condominium),3,2024-03-09,40.65114554,-111.87008013
+329,Jalan Bukit Merah (Blk 12),1,2024-03-09,1.2814829,103.82452195
+330,Jalan Bukit Merah (Blk 14),4,2024-03-09,1.2859158,103.80997345
+331,Jalan Bukit Merah (Blk 3),1,2024-03-09,1.2863789,103.807276
+332,Jalan Gembira,2,2024-03-09,1.33222391,103.8803244
+333,Jalan Setia,1,2024-03-09,1.3335169,103.8808881
+334,Upper Aljunied Lane (Blk 4),1,2024-03-09,1.33416,103.87943
+335,Simei Street 4 (Double Bay Residences),4,2024-03-09,1.34147575,103.95641995
+336,Ang Mo Kio Avenue 1 (Blk 222),1,2024-03-09,1.3646862,103.8479769
+337,Ang Mo Kio Avenue 1 (Blk 223),1,2024-03-09,1.3646862,103.8479769
+338,Ang Mo Kio Avenue 1 (Blk 225),2,2024-03-09,1.3675,103.839493
+339,Ang Mo Kio Avenue 1 (Blk 226C),1,2024-03-09,1.36578,103.838102
+340,Ang Mo Kio Avenue 3 (Blk 229),3,2024-03-09,1.3692909,103.8383548
+341,Corporation Drive (Blk 349),2,2024-03-09,1.339411,103.718951
+342,Corporation Rise,2,2024-03-09,1.33912365,103.71682575
+343,Corporation Walk,4,2024-03-09,1.339601,103.71846655
+344,Clementi West Street 1 (Blk 601),1,2024-03-09,1.304803,103.7652313
+345,Clementi West Street 1 (Blk 602),1,2024-03-09,1.3048671,103.7661557
+346,Clementi West Street 1 (Blk 604),1,2024-03-09,1.3054841,103.767452
+347,Jubilee Road,2,2024-03-09,1.3062008,103.76664205
+348,Jurong West Avenue 1 (Blk 542),1,2024-03-09,1.351485,103.715427
+349,Jurong West Street 42 (Blk 545),1,2024-03-09,1.352344,103.715373
+350,Jurong West Street 42 (Blk 546),1,2024-03-09,1.35272,103.71521
+351,Jurong West Street 42 (Blk 550),1,2024-03-09,1.352527,103.715828
+352,Bukit Batok West Avenue 6 (Blk 134),3,2024-03-09,1.35162,103.74453
+353,Jurong West Street 61 (Blk 656C),2,2024-03-09,1.336115,103.699849
+354,Jurong West Street 65 (Blk 657A),1,2024-03-09,1.3356102,103.7005965
+355,Lentor Terrace,2,2024-03-09,1.3898756,103.8365402
+356,Lentor Way,1,2024-03-09,1.3881731,103.83640135
+357,Lorong 16 Geylang,3,2024-03-09,1.31069875,103.8800056
+358,Pasir Ris Drive 6 (Blk 405),1,2024-03-09,1.373264,103.955562
+359,Pasir Ris Drive 6 (Blk 407),1,2024-03-09,1.3736245,103.954514
+360,Pasir Ris Drive 6 (Blk 414),1,2024-03-09,1.372228,103.955989
+361,Jurong West Street 61 (Blk 653C),8,2024-03-09,1.335467,103.696892
+362,Jurong West Street 61 (Blk 654A),1,2024-03-09,1.336002,103.69812
+363,Jurong West Street 91 (Blk 936),1,2024-03-09,1.342731,103.689325
+364,Jurong West Street 91 (Blk 941),1,2024-03-09,1.343793,103.688895
+365,Jurong West Street 91 (Blk 942),1,2024-03-09,1.343493,103.689239
+366,Jurong West Street 91 (Blk 945),2,2024-03-09,1.344288,103.689997
+367,Jurong West Street 92 (Blk 932),1,2024-03-09,1.341708,103.688716
+368,Jurong West Street 61 (Blk 648A),2,2024-03-09,1.3383537,103.6976371
+369,Jurong West Street 61 (Blk 648B),1,2024-03-09,1.3383712,103.6980733
+370,Jurong West Street 61 (Blk 650B),2,2024-03-09,1.338065,103.696257
+371,Kensington Park Drive (Kensington Park Condominium),4,2024-03-09,1.3681847,103.8683365
+372,Worthing Road,1,2024-03-09,1.36998545,103.8679599
+373,Lorong 7 Geylang (Centra Residence),1,2024-03-09,1.31319684,103.87565232
+374,Lorong 9 Geylang,4,2024-03-09,1.3128088,103.8764091
+375,Pasir Ris Drive 6 (Blk 446),4,2024-03-09,1.3846672,103.973997
+376,Pasir Ris Drive 6 (Blk 450),1,2024-03-09,1.371057,103.957988
+377,Bukit Batok East Avenue 6 (Blk 292B),2,2024-03-09,1.3447795,103.7539617
+378,Bukit Batok Street 21 (Blk 293D),2,2024-03-09,1.3448379,103.7552226
+379,Geylang Road,1,2024-03-09,1.31508855,103.8922273
+380,Lorong 20 Geylang,1,2024-03-09,1.3104609,103.88141105
+381,Lorong 22 Geylang,2,2024-03-09,1.31056435,103.88213125
+382,Woodlands Drive 16 (Blk 541),1,2024-03-09,1.427912,103.7932
+383,Woodlands Drive 16 (Blk 544),1,2024-03-09,1.4287763,103.7931523
+384,Woodlands Drive 16 (Blk 586),1,2024-03-09,1.42848,103.7945759
+385,Woodlands Drive 16 (Blk 587),1,2024-03-09,1.428356,103.795706
+386,Admiralty Road West,3,2024-03-09,1.4564761,103.80025775
+387,Alexandra View (Alex Residences),3,2024-03-09,1.35652304,103.80859375
+388,Belimbing Avenue,3,2024-03-09,1.3323013,103.8760821
+389,Bishan Street 22 (Blk 243),1,2024-03-09,1.361007,103.844758
+390,Bishan Street 22 (Blk 246),1,2024-03-09,1.36091,103.843688
+391,Bishan Street 22 (Blk 251),1,2024-03-09,1.361919,103.844177
+392,Bristol Road,1,2024-03-09,1.3125294,103.8479803
+393,Dorset Road (Blk 49),1,2024-03-09,1.3128766,103.8491338
+394,Farrer Park Road (Blk 13),1,2024-03-09,1.311853,103.851337
+395,Bukit Batok East Avenue 3 (Blk 286),1,2024-03-09,1.3467707,103.7583111
+396,Bukit Batok East Avenue 3 (Blk 287),1,2024-03-09,1.3472361,103.758466
+397,Bukit Batok East Avenue 4 (Blk 271),1,2024-03-09,1.3481848,103.7587771
+398,Bukit Batok Street 23,3,2024-03-09,1.3398762,103.75709245
+399,Buangkok Green (Blk 988C),3,2024-03-09,1.3800206,103.8776716
+400,Choa Chu Kang Crescent (Blk 657),1,2024-03-09,1.4003603,103.7497569
+401,Choa Chu Kang Crescent (Blk 659),1,2024-03-09,1.400971,103.748965
+402,Choa Chu Kang Crescent (Blk 692A),1,2024-03-09,1.400158,103.751145
+403,Marine Crescent (Blk 33),1,2024-03-09,1.3027609,103.9125048
+404,Marine Crescent (Blk 34),1,2024-03-09,1.3038691,103.9119143
+405,Marine Crescent (Blk 45),1,2024-03-09,1.304598,103.9124574
+406,Pasir Ris Street 71,1,2024-03-09,1.3734037,103.93987855
+407,Pasir Ris Street 71 (Blk 742),1,2024-03-09,1.376956,103.935652
+408,Pasir Ris Street 71 (Blk 770),1,2024-03-09,1.3750754,103.9361071
+409,Tuas South Street 15,3,2024-03-09,1.276354,103.63811805
+410,Woodlands Crescent (Northoaks),1,2024-03-09,1.44888091,103.80020828
+411,Woodlands Rise (Blk 785C),1,2024-03-09,1.446267,103.8058689
+412,Woodlands Rise (Blk 785D),1,2024-03-09,1.4455513,103.8058323
+413,Admiralty Road West (near to Admiralty Street),2,2024-03-09,1.45942005,103.82208215
+414,Ang Mo Kio Avenue 6 (Blk 700B),1,2024-03-09,1.3693115,103.8460029
+415,Ang Mo Kio Avenue 6 (Blk 700C),1,2024-03-09,1.3694119,103.8465243
+416,Balestier Road,1,2024-03-09,1.32551348,103.85106659
+417,Jalan Ampas (Balestier Regency),1,2024-03-09,1.32578425,103.85105935
+418,Bukit Batok West Avenue 6 (Blk 190),1,2024-03-09,1.34539,103.745887
+419,Bukit Batok West Avenue 6 (Blk 194A),1,2024-03-09,1.3450674,103.7454788
+420,Charlton Lane,1,2024-03-09,1.35563075,103.8818787
+421,Charlton Road,1,2024-03-09,1.35467185,103.88188285
+422,Fan Yoong Road,2,2024-03-09,1.33060895,103.7037091
+423,Jalan Tenaga (Blk 650),1,2024-03-09,1.331908,103.907499
+424,Jalan Tenaga (Blk 654),1,2024-03-09,1.331908,103.907499
+425,Kranji Road,2,2024-03-09,1.4312246,103.7556998
+426,Mimosa Walk,2,2024-03-09,1.3829388,103.8621915
+427,Penjuru Place,2,2024-03-09,1.31603155,103.73153005
+428,Serangoon North Avenue 3 (Blk 544),1,2024-03-09,1.3743727,103.8707351
+429,Serangoon North Avenue 4 (Blk 542),1,2024-03-09,1.3741219,103.8719803
+430,Sembawang Drive (Blk 470),1,2024-03-09,1.4515946,103.8151388
+431,Sembawang Drive (Blk 473),1,2024-03-09,1.451167,103.816145
+432,Sixth Lok Yang Road,2,2024-03-09,1.32535085,103.6841045
+433,Tah Ching Road (Blk 322),1,2024-03-09,1.3368933,103.7245407
+434,Yuan Ching Road (Lakeside Tower),1,2024-03-09,1.3326444,103.7250387
+435,Telok Blangah Rise (Blk 37),1,2024-03-09,1.272651,103.822719
+436,Telok Blangah Rise (Blk 40),1,2024-03-09,1.2717293,103.8234953
+437,Toh Guan Road East,2,2024-03-09,1.34079105,103.74358615
+438,Tuas South Street 12,2,2024-03-09,1.30774508,103.62859372
+439,Woodlands Drive 16 (Blk 576),1,2024-03-09,1.4305111,103.7966289
+440,Woodlands Drive 16 (Blk 577),1,2024-03-09,1.4309762,103.7968938
+441,Gul Road,8,2024-03-09,1.30657015,103.66546615
+442,Ang Mo Kio Avenue 1 (Blk 335),1,2024-03-09,1.3646862,103.8479769
+443,Ang Mo Kio Avenue 1 (Blk 336),2,2024-03-09,1.3646862,103.8479769
+444,Ang Mo Kio Street 32 (Blk 350),1,2024-03-09,1.3642004,103.8500856
+445,Ang Mo Kio Street 32 (Blk 351),3,2024-03-09,1.3642539,103.8501032
+446,Bukit Panjang Ring Road (Blk 533),1,2024-03-09,1.384981,103.763741
+447,Bukit Panjang Ring Road (Blk 537),1,2024-03-09,1.3837214,103.7631278
+448,Bukit Panjang Ring Road (Blk 545),1,2024-03-09,1.3815964,103.7634963
+449,Jelapang Road (Blk 538),3,2024-03-09,1.3838989,103.7636448
+450,Jelapang Road (Blk 540),1,2024-03-09,1.3834414,103.7638725
+451,Plantation Avevue,2,2024-03-09,1.3590451,103.87291855
+452,Serangoon Avenue 4 (Blk 214),1,2024-03-09,1.371254,103.873502
+453,Serangoon Avenue 4 (Blk 215),1,2024-03-09,1.35807,103.87333
+454,Serangoon Avenue 4 (Blk 221),1,2024-03-09,1.358994,103.87168
+455,Jelebu Road (Blk 182),4,2024-03-09,1.3799817,103.7635567
+456,Jurong West Street 42 (Blk 419),2,2024-03-09,1.350818,103.726857
+457,Jurong West Street 42 (Blk 421),2,2024-03-09,1.350411,103.726904
+458,Boon Lay Drive (Blk 180A),1,2024-03-09,1.3474851,103.7086293
+459,Boon Lay Drive (Blk 181A),1,2024-03-09,1.348519,103.707875
+460,Boon Lay Drive (Blk 181B),1,2024-03-09,1.3486714,103.7087328
+461,Circuit Road (Blk 64),1,2024-03-09,1.328185,103.88548
+462,Circuit Road (Blk 65),1,2024-03-09,1.3290023,103.8861339
+463,Circuit Road (Blk 67),1,2024-03-09,1.3290023,103.8861339
+464,Jalan Seaview,1,2024-03-09,1.29964525,103.89644915
+465,Meyer Road,1,2024-03-09,1.2974267,103.8893419
+466,Meyer Road (The Makena),1,2024-03-09,1.2983129,103.8864833
+467,Jurong East Avenue 1 (Blk 330),1,2024-03-09,1.349709,103.730319
+468,Jurong East Avenue 1 (Blk 337),1,2024-03-09,1.349734,103.731902
+469,Jurong East Street 31 (Blk 328),1,2024-03-09,1.3492919,103.7299168
+470,Jurong West Street 91 (Blk 903),1,2024-03-09,1.339772,103.68629
+471,Jurong West Street 91 (Blk 908),1,2024-03-09,1.3405884,103.6859323
+472,Jurong West Street 91 (Blk 919),1,2024-03-09,1.342194,103.687699
+473,Sims Avenue,1,2024-03-09,1.31878675,103.9028514
+474,Sims Place (Blk 52),1,2024-03-09,1.3170883,103.8800919
+475,Sims Place (Blk 63),1,2024-03-09,1.3164729,103.8795912
+476,Anchorvale Drive (Blk 319B),1,2024-03-09,1.391597,103.890322
+477,Anchorvale Link (Blk 314B),1,2024-03-09,1.391162,103.888559
+478,Ang Mo Kio Avenue 10 (Blk 475),1,2024-03-09,1.3624802,103.8563279
+479,Ang Mo Kio Avenue 10 (Blk 476),1,2024-03-09,1.3622904,103.857698
+480,Bedok North Avenue 2 (Blk 512),1,2024-03-09,1.333385,103.929034
+481,Bedok North Street 3 (Blk 554),1,2024-03-09,1.3325867,103.9282001
+482,Bedok Reservoir Road (Blk 712),1,2024-03-09,1.333712,103.915629
+483,Bedok Reservoir Road (Blk 744),1,2024-03-09,1.3384662,103.927448
+484,Palm Grove Avenue,1,2024-03-09,1.36064265,103.8787557
+485,Highland Road,1,2024-03-09,1.3581582,103.8791899
+486,Hougang Avenue 10 (Blk 513),1,2024-03-09,1.3720837,103.8895954
+487,Hougang Central (Blk 830),1,2024-03-09,1.3707186,103.8903105
+488,Jalan Rajah (Rajah Tower),1,2024-03-09,1.35652304,103.80859375
+489,Jalan Rama Rama (De Royale),1,2024-03-09,1.3276719,103.8495756
+490,Lorong 34 Geylang,1,2024-03-09,1.31189205,103.88809835
+491,Lorong 34 Geylang (Geylang Heritage),1,2024-03-09,1.3133473,103.88780915
+492,Lorong Mydin,1,2024-03-09,1.3198056,103.91158725
+493,Lorong Mydin (Astoria Park),1,2024-03-09,40.77854538,-73.92302704
+494,Pebble Lane,1,2024-03-09,1.31300601,103.8930698
+495,Tanjong Katong Road,1,2024-03-09,1.3106317,103.8942103
+496,Punggol Walk (Blk 308B),1,2024-03-09,1.4074877,103.8997481
+497,Punggol Walk (Blk 308C),1,2024-03-09,1.408483,103.8990004
+498,Tagore Industrial Avenue,1,2024-03-09,1.3844598,103.82751645
+499,Tagore Lane,1,2024-03-09,1.38427795,103.8280891
+500,Tampines Street 81 (Blk 899),1,2024-03-09,1.346456,103.935306
+501,Tampines Street 81 (Blk 899A),1,2024-03-09,1.3462621,103.9352268
+502,Thomson Green,2,2024-03-09,1.37895545,103.8319767
+503,Woodlands Drive 60 (Blk 786B),1,2024-03-09,1.445514,103.800747
+504,Woodlands Drive 60 (Blk 786C),1,2024-03-09,1.445854,103.801212
+505,Woodlands Street 13 (Blk 148),1,2024-03-09,1.4359102,103.7737669
+506,Woodlands Street 13 (Blk 154),1,2024-03-09,1.43466,103.77543
+507,Yishun Street 22 (Blk 259),1,2024-03-09,1.435146,103.839064
+508,Yishun Street 22 (Blk 262),1,2024-03-09,1.435698,103.839397

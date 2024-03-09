@@ -1,0 +1,43 @@
+,camps,dist from nearest cluster,dist < 1km?,nearest cluster,lat,long
+0,Amoy Quee Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+9,Lim Chu Kang Camp II,0.0,no,to be confirmed manually,1.41700006,103.69999695
+40,Stagmont Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+23,Khatib Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+14,Gombak Base,0.0,no,to be confirmed manually,1.35652304,103.80859375
+16,Hendon Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+27,Ladang Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+21,Kaki Bukit Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+22,Keat Hong Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+41,Sungei Gedong Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+33,Pasir Laba Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+24,Mowbray Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+30,Mandai Hill Camp,0.0,no,to be confirmed manually,1.41079515,103.7806544
+13,Paya Lebar Air Base,0.0,no,to be confirmed manually,1.36028004,103.90943909
+15,Sembawang Air Base,0.0,no,to be confirmed manually,1.42090189,103.81863403
+31,Nee Soon Camp,0.0,no,to be confirmed manually,1.41201279,103.81594693
+26,Kranji Camp III,0.0,YES,to be confirmed manually,1.43707955,103.75592155
+25,Kranji Camp II,0.0,YES,to be confirmed manually,1.43707955,103.75592155
+28,Rocky Hill Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+11,Murai Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+32,Nee Soon Driclad Centre,0.0,no,to be confirmed manually,1.35652304,103.80859375
+4,Tuas Naval Base,0.0,no,to be confirmed manually,1.35652304,103.80859375
+1,Changi Naval Base,0.0,no,to be confirmed manually,1.35652304,103.80859375
+12,Dieppe Barracks,0.0,no,to be confirmed manually,1.35652304,103.80859375
+7,Chong Pang Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+10,Depot Road Camp,0.0,no,to be confirmed manually,1.3027777,103.81857028
+8,Clementi Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+37,Selarang Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+29,Maju Camp,0.0,no,to be confirmed manually,1.35652304,103.80859375
+20,Jurong Camp II,0.0,no,to be confirmed manually,1.35652304,103.80859375
+34,Pasir Ris Camp,0.1,YES,Pasir Ris Grove (Coco Palms),1.37787414,103.94878387
+18,Jurong Camp I,0.19273095698773857,YES,Jurong West Street 41 (Blk 478),1.34895563,103.71936035
+3,Bedok Camp I,0.20036150637327543,YES,Bedok Ria Place,1.3273726,103.95053616
+5,Choa Chu Kang Camp,0.39239806707240504,YES,Jalan Bukit Merah (Blk 14),1.28917475,103.8113275
+36,SAFTI Military Institute,0.9167825646311819,YES,Jurong West Street 91 (Blk 903),1.33395004,103.68045044
+6,Bedok Camp II,0.9481935056125238,YES,Bedok North Street 3 (Blk 554),1.32406187,103.92840576
+35,Rifle Range Road Camp,1.3274355046862696,no,Henderson Crescent (Blk 103),1.3019488,103.8194178
+39,Sembawang Camp,1.5041433000245124,no,Sembawang Drive (Blk 473),1.44095576,103.82501984
+38,Seletar Camp,3.394491912741816,no,Yishun Street 22 (Blk 259),1.41491079,103.86192842
+19,Tengah Air Base,3.4986369869377376,no,Jurong West Street 42 (Blk 546),1.38329995,103.70780182
+17,Seletar Airport,3.515023973544739,no,Anchorvale Link (Blk 314B),1.41514397,103.86795807
+2,Changi Air Base,5.630952078920326,no,Simei Street 4 (Double Bay Residences),1.33062458,104.00589752
