@@ -2,7 +2,7 @@ name: Daily Selenium Script
 
 on:
   schedule:
-    - cron: '07 10 * * 0-6'  
+    - cron: '07 11 * * 0-6'  
 
 jobs:
   build:
@@ -23,7 +23,7 @@ jobs:
   
     - name: Install dependencies
       run: |
-        pip install selenium pandas webdriver-manager jupyter nbconvert geocoder math
+        pip install selenium pandas webdriver-manager jupyter nbconvert geocoder
         
     - name: Run  script
       run: jupyter nbconvert --execute --inplace Dengue/NEAwebsite.ipynb
