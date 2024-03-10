@@ -1,43 +1,43 @@
-,camps,dist from nearest cluster,dist < 1km?,nearest cluster,lat,long
-0,Amoy Quee Camp,50.0,no,nil,1.35652304,103.80859375
-1,Changi Naval Base,50,no,nil,1.35652304,103.80859375
+,camps,dist from nearest cluster,dist < 2km?,nearest cluster,lat,long
+0,Amoy Quee Camp,50.0,no,nil,1.3872763,103.8500044
+1,Changi Naval Base,50,no,nil,1.3180611,104.0139996
 2,Changi Air Base,50,no,nil,1.33062458,104.00589752
 3,Bedok Camp I,50,no,nil,1.3273726,103.95053616
-4,Tuas Naval Base,50,no,nil,1.35652304,103.80859375
+4,Tuas Naval Base,50,no,nil,1.2956838,103.6627741
 5,Choa Chu Kang Camp,50,no,nil,1.28917475,103.8113275
 6,Bedok Camp II,50,no,nil,1.32406187,103.92840576
-7,Chong Pang Camp,50,no,nil,1.35652304,103.80859375
-8,Clementi Camp,50,no,nil,1.35652304,103.80859375
+7,Chong Pang Camp,50,no,nil,1.4304355,103.8211722
+8,Clementi Camp,50,no,nil,1.3290056,103.7603713
 9,Lim Chu Kang Camp II,50,no,nil,1.41700006,103.69999695
 10,Depot Road Camp,50,no,nil,1.3027777,103.81857028
-11,Murai Camp,50,no,nil,1.35652304,103.80859375
-12,Dieppe Barracks,50,no,nil,1.35652304,103.80859375
+11,Murai Camp,50,no,nil,1.3888589,103.6949163
+12,Dieppe Barracks,50,no,nil,1.422186,103.8205401
 13,Paya Lebar Air Base,50,no,nil,1.36028004,103.90943909
-14,Gombak Base,50,no,nil,1.35652304,103.80859375
+14,Gombak Base,50,no,nil,1.3660815,103.7536976
 15,Sembawang Air Base,50,no,nil,1.42090189,103.81863403
-16,Hendon Camp,50,no,nil,1.35652304,103.80859375
+16,Hendon Camp,50,no,nil,1.3872954,103.9727069
 17,Seletar Airport,50,no,nil,1.41514397,103.86795807
 18,Jurong Camp I,50,no,nil,1.34895563,103.71936035
 19,Tengah Air Base,50,no,nil,1.38329995,103.70780182
-20,Jurong Camp II,50,no,nil,1.35652304,103.80859375
-21,Kaki Bukit Camp,50,no,nil,1.35652304,103.80859375
-22,Keat Hong Camp,50,no,nil,1.35652304,103.80859375
-23,Khatib Camp,50,no,nil,1.35652304,103.80859375
-24,Mowbray Camp,50,no,nil,1.35652304,103.80859375
+20,Jurong Camp II,50,no,nil,1.3370576,103.6845186
+21,Kaki Bukit Camp,50,no,nil,1.3392712,103.9026712
+22,Keat Hong Camp,50,no,nil,1.3736526,103.7118008
+23,Khatib Camp,50,no,nil,1.4223482,103.823017
+24,Mowbray Camp,50,no,nil,1.3980047,103.7382767
 25,Kranji Camp II,50,no,nil,1.43707955,103.75592155
 26,Kranji Camp III,50,no,nil,1.43707955,103.75592155
-27,Ladang Camp,50,no,nil,1.35652304,103.80859375
-28,Rocky Hill Camp,50,no,nil,1.35652304,103.80859375
-29,Maju Camp,50,no,nil,1.35652304,103.80859375
+27,Ladang Camp,50,no,nil,1.407049,104.0243881
+28,Rocky Hill Camp,50,no,nil,1.400188,104.0458451
+29,Maju Camp,50,no,nil,1.3290228,103.7722837
 30,Mandai Hill Camp,50,no,nil,1.41079515,103.7806544
 31,Nee Soon Camp,50,no,nil,1.41201279,103.81594693
-32,Nee Soon Driclad Centre,50,no,nil,1.35652304,103.80859375
-33,Pasir Laba Camp,50,no,nil,1.35652304,103.80859375
+32,Nee Soon Driclad Centre,50,no,nil,1.4062996,103.8147447
+33,Pasir Laba Camp,50,no,nil,1.3321523,103.6695651
 34,Pasir Ris Camp,50,no,nil,1.37787414,103.94878387
 35,Rifle Range Road Camp,50,no,nil,1.3019488,103.8194178
 36,SAFTI Military Institute,50,no,nil,1.33395004,103.68045044
-37,Selarang Camp,50,no,nil,1.35652304,103.80859375
+37,Selarang Camp,50,no,nil,1.3716125,103.9727235
 38,Seletar Camp,50,no,nil,1.41491079,103.86192842
 39,Sembawang Camp,50,no,nil,1.44095576,103.82501984
-40,Stagmont Camp,50,no,nil,1.35652304,103.80859375
-41,Sungei Gedong Camp,50,no,nil,1.35652304,103.80859375
+40,Stagmont Camp,50,no,nil,1.3846823,103.7477156
+41,Sungei Gedong Camp,50,no,nil,1.4186492,103.6961095
