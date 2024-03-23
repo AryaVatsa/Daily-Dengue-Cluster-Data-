@@ -1,43 +1,54 @@
-,camps,dist from nearest cluster,dist < 2km?,nearest cluster,lat,long
-0,Amoy Quee Camp,50.0,no,nil,1.3872763,103.8500044
-1,Changi Naval Base,50,no,nil,1.3180611,104.0139996
-2,Changi Air Base,50,no,nil,1.33062458,104.00589752
-3,Bedok Camp I,50,no,nil,1.3273726,103.95053616
-4,Tuas Naval Base,50,no,nil,1.2956838,103.6627741
-5,Choa Chu Kang Camp,50,no,nil,1.28917475,103.8113275
-6,Bedok Camp II,50,no,nil,1.32406187,103.92840576
-7,Chong Pang Camp,50,no,nil,1.4304355,103.8211722
-8,Clementi Camp,50,no,nil,1.3290056,103.7603713
-9,Lim Chu Kang Camp II,50,no,nil,1.41700006,103.69999695
-10,Depot Road Camp,50,no,nil,1.3027777,103.81857028
-11,Murai Camp,50,no,nil,1.3888589,103.6949163
-12,Dieppe Barracks,50,no,nil,1.422186,103.8205401
-13,Paya Lebar Air Base,50,no,nil,1.36028004,103.90943909
-14,Gombak Base,50,no,nil,1.3660815,103.7536976
-15,Sembawang Air Base,50,no,nil,1.42090189,103.81863403
-16,Hendon Camp,50,no,nil,1.3872954,103.9727069
-17,Seletar Airport,50,no,nil,1.41514397,103.86795807
-18,Jurong Camp I,50,no,nil,1.34895563,103.71936035
-19,Tengah Air Base,50,no,nil,1.38329995,103.70780182
-20,Jurong Camp II,50,no,nil,1.3370576,103.6845186
-21,Kaki Bukit Camp,50,no,nil,1.3392712,103.9026712
-22,Keat Hong Camp,50,no,nil,1.3736526,103.7118008
-23,Khatib Camp,50,no,nil,1.4223482,103.823017
-24,Mowbray Camp,50,no,nil,1.3980047,103.7382767
-25,Kranji Camp II,50,no,nil,1.43707955,103.75592155
-26,Kranji Camp III,50,no,nil,1.43707955,103.75592155
-27,Ladang Camp,50,no,nil,1.407049,104.0243881
-28,Rocky Hill Camp,50,no,nil,1.400188,104.0458451
-29,Maju Camp,50,no,nil,1.3290228,103.7722837
-30,Mandai Hill Camp,50,no,nil,1.41079515,103.7806544
-31,Nee Soon Camp,50,no,nil,1.41201279,103.81594693
-32,Nee Soon Driclad Centre,50,no,nil,1.4062996,103.8147447
-33,Pasir Laba Camp,50,no,nil,1.3321523,103.6695651
-34,Pasir Ris Camp,50,no,nil,1.37787414,103.94878387
-35,Rifle Range Road Camp,50,no,nil,1.353562,103.7860161
-36,SAFTI Military Institute,50,no,nil,1.33395004,103.68045044
-37,Selarang Camp,50,no,nil,1.3716125,103.9727235
-38,Seletar Camp,50,no,nil,1.41491079,103.86192842
-39,Sembawang Camp,50,no,nil,1.44095576,103.82501984
-40,Stagmont Camp,50,no,nil,1.3846823,103.7477156
-41,Sungei Gedong Camp,50,no,nil,1.4186492,103.6961095
+﻿,camps,Address,lat,long,Radius,dist from nearest cluster,dist < 150?,nearest cluster
+0,5 Ammo Depot,"1.3728081, 103.6975257",1.372807,103.697426,213.79,50,no,nil
+1,7 Ammo Depot,"1.345941366522019, 103.91284221598062",1.345829,103.912812,336.83,50,no,nil
+2,Airforce Training Command,"Paya Lebar Airbase, 506 Airport Road Singapore 534395",1.34328,103.899917,510.11,50,no,nil
+3,Amoy Quee,"461 Ang Mo Kio Street 66, Singapore 567754",1.38188,103.853111,799.28,50,no,nil
+4,Bedok,"766 Upper East Coast Road, Singapore 465556",1.316894,103.954423,488.07,50,no,nil
+5,Bukit Gombak (ADOC),"54 Gombak Rise, Singapore 667988",1.366285,103.756627,550.5,50,no,nil
+6,Bukit Panjang,"308 Gombak Dr, Singapore 669646",1.372506,103.757915,607.36,50,no,nil
+7,Changi Airbase East,"221 Changi E Dr, Singapore 498799",1.340119,104.010315,2914.7,50,no,nil
+8,Changi Airbase West,"508 Cranwell Road, 509863",1.379549,103.985629,1065.02,50,no,nil
+9,Changi Naval Base,"210 Tanah Merah Coast Rd, Singapore 498805",1.318883,104.025197,1198.75,50,no,nil
+10,Chong Pang,"481 Sembawang Rd, Singapore 757629",1.430442,103.825286,622.97,50,no,nil
+11,Chua Chu Kang,"300 Lor Danau, Singapore 637661",1.353789,103.678785,397.01,50,no,nil
+12,Clementi,"26 Clementi Loop, Singapore 129817",1.331131,103.761688,403.34,50,no,nil
+13,Depot Road,"3 Depot Rd, Singapore 109680",1.279921,103.81519,352.57,50,no,nil
+14,Dieppe Barracks,"325 Sembawang Rd, Singapore 757758",1.423188,103.819539,798.33,50,no,nil
+15,Gombak Base,"303 Gombak Dr, Singapore 669645",1.372634,103.75911,694.79,50,no,nil
+16,Hendon,"6 Old Pier Rd, Singapore 508487",1.384464,103.975296,700.61,50,no,nil
+17,Hillview,"303 Gombak Dr, Singapore 669645",1.371151,103.760963,329.43,50,no,nil
+18,Jurong 1,"106 Upper Jurong Rd, Singapore 638360",1.334344,103.68737,584.93,50,no,nil
+19,Jurong 2,"29 Jurong West Street 91, Singapore 649042",1.338441,103.684216,403.44,50,no,nil
+20,Kaki Bukit,"17 Kaki Bukit Ave 4, Singapore 415927",1.341321,103.906341,423.02,50,no,nil
+21,Keat Hong,"611 Old Choa Chu Kang Rd, Singapore 638930",1.371523,103.716796,433.14,50,no,nil
+22,Khatib,"302 Sembawang Rd, Level 1, Blk 5, Singapore 758534",1.422842,103.828449,489.83,50,no,nil
+23,Kranji 2,"91 Choa Chu Kang Wy, Singapore 688251",1.401247,103.739475,599,50,no,nil
+24,Kranji 3,"151 Choa Chu Kang Wy, Western Water, Singapore 688248",1.407232,103.73808,873.61,50,no,nil
+25,Lim Chu Kang 2,"20 Old Lim Chu Kang Rd, Singapore 708976",1.376123,103.699067,516.01,50,no,nil
+26,Maju,"Maju Dr, Singapore 596303",1.328962,103.771672,570.3,50,no,nil
+27,Mandai 2,"465 Mandai Rd, Singapore 729756",1.408407,103.769073,430.85,50,no,nil
+28,Mandai Hill,"450 Mandai Road, Singapore 729755",1.40853,103.774475,394.93,50,no,nil
+29,Mandai West,"101 Mandai Quarry Rd, Singapore 728681",1.407407,103.763783,465.43,50,no,nil
+30,MMRC,300 Pasir Laba Road,1.337783,103.67157,289.19,50,no,nil
+31,Mowbray/SAFDB,"10 Mowbray Rd, Singapore 688255",1.398101,103.740453,314.63,50,no,nil
+32,Murai,"24 Lor Serambi, Murai Camp Pass Office, Singapore 708972",1.392349,103.699991,1189.7,50,no,nil
+33,Naval Diving Unit,"30 Admiralty Road West, Singapore 759958",1.46697,103.817902,737.6,50,no,nil
+34,Nee Soon,"565 Transit Rd, Singapore 778895",1.41043,103.814299,819.48,50,no,nil
+35,Nee Soon Driclad,"210 Sembawang Rd, Singapore 779113",1.408177,103.818998,373.41,50,no,nil
+36,Pasir Laba,"122 Pasir Laba Rd, Singapore 637900",1.334694,103.672986,624.7,50,no,nil
+37,Pasir Laba Ammo Depot,"1.3385957, 103.6594541",1.3385957,103.6594541,216.63,50,no,nil
+38,Pasir Ris,"31 Pasir Ris Coast Industrial Park 3, Singapore 518230",1.39403,103.933108,510.48,50,no,nil
+39,Paya Lebar Airbase,"Paya Lebar Airbase, 506 Airport Road Singapore 534395",1.360067,103.907621,2318.92,50,no,nil
+40,Paya Lebar Ammo Depot,"1.368586972027489, 103.92355492900087",1.368467,103.92388,195.67,50,no,nil
+41,Pulau Tekong,"SAF Ferry Terminal, 0 Nicoll Drive, Singapore 498985",1.416122,104.055665,5448.33,50,no,nil
+42,Rifle Range,"501 Rifle Range Rd, Singapore 588399",1.354522,103.788511,250.59,50,no,nil
+43,SAFTI MI,"500 Upper Jurong Rd, Singapore 638364",1.334059,103.680984,713.86,50,no,nil
+44,Selarang,"1 Selarang Ring Rd, Singapore 507087",1.369962,103.975962,613.57,50,no,nil
+45,Seletar,"Piccadilly Road, Singapore 797778",1.412149,103.87982,1325.17,50,no,nil
+46,Sembawang,"30 Admiralty Road West, Singapore 759958",1.46746,103.816271,556.28,50,no,nil
+47,Sembawang Airbase,"Sembawang Road, Singapore 758534",1.427695,103.813514,1740.69,50,no,nil
+48,Stagmont,"Stagmont Road, Singapore 688794",1.386835,103.75093,460.75,50,no,nil
+49,Sungei Gedong,"430 Sungei Gedong Road Rd, Singapore 718916",1.420341,103.694227,726.25,50,no,nil
+50,Tengah Airbase,"760 Old Choa Chu Kang Rd, Singapore 699806",1.387342,103.707178,1700.53,50,no,nil
+51,Tengah Ammo Depot,"1.3740556, 103.7144685",1.376607,103.712462,374.02,50,no,nil
+52,Tuas Naval Base,"104 Pioneer Sector 2, Singapore 628399",1.293282,103.662269,517.3,50,no,nil
