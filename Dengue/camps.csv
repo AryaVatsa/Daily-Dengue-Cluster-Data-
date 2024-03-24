@@ -1,4 +1,4 @@
-﻿,camps,Address,lat,long,Radius,dist from nearest cluster,dist < 150?,nearest cluster
+﻿,camps,Address,lat,long,Radius,dist betw centre and nearest cluster,dist from edge < 150?,nearest cluster
 0,5 Ammo Depot,"1.3728081, 103.6975257",1.372807,103.697426,213.79,50,no,nil
 1,7 Ammo Depot,"1.345941366522019, 103.91284221598062",1.345829,103.912812,336.83,50,no,nil
 2,Airforce Training Command,"Paya Lebar Airbase, 506 Airport Road Singapore 534395",1.34328,103.899917,510.11,50,no,nil
